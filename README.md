@@ -1,4 +1,4 @@
-# Sales Prediction Model
+# AMAZON SALES PREDICTION
 Overview
 
 This project is designed to develop a predictive model to forecast sales for each product category in an e-commerce environment. By leveraging machine learning techniques, the goal is to provide insights that can help in optimizing inventory management, marketing strategies, and overall profitability.
